@@ -26,6 +26,9 @@ O que deseja acessar?
 <a href="">Informações sobre o TAF (Teste de Aptidão Física)</a>
 </li>
 
+<li>
+<a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/livros/Livros.md">Lista de livros sugeridos</a>
+</li>
 
 <br><br><br><br>
 
