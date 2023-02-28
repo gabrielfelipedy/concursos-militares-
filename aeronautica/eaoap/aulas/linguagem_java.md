@@ -53,7 +53,7 @@ class OlaMundo<br>
 ##
 
 
-<br><a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_linguagem_java.md">Praticar com exercícios</a>
+<br><a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md">Praticar com exercícios</a>
 
 <br><br>
 
