@@ -5,7 +5,9 @@
 Clicando em cada exercício você poderá acessar a sua resolução:
 <br>Obs: Sempre tente fazer antes de olhar a resposta!
 
-* (1) Crie um programa que imprima uma mensagem de boas vindas.
+<li>
+<a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/exercicios/BoasVindas.java">Crie um programa que imprima uma mensagem de boas vindas</a>
+</li>
 
 ### Desafios
 
