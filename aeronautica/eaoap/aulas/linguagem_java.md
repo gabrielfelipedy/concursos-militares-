@@ -52,6 +52,14 @@ class OlaMundo<br>
 
 ##
 
+
+<br><a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_linguagem_java.md">Praticar com exercícios</a>
+
+<br><br>
+
+##
+
+
 ### Estruturas de Controle: if, if/else, while, for switch, do/while, break e continue
 
 ### Programação orientada a objetos
