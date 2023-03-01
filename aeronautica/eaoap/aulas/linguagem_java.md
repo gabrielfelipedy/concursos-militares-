@@ -48,7 +48,7 @@ class OlaMundo {
 ```
 ##
 
-:memo: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md")
+:memo: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
 
 <br>
 
