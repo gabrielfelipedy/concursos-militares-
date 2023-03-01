@@ -25,11 +25,9 @@ Vamos começar com o clássico "Olá mundo" que todo mundo aprende ao programar 
 
 Para imprimir "Olá mundo" na tela usaremos o seguinte código:
 
-##
-
+```java
 System.out.println("Olá Mundo");
-
-##
+```
 
 Observe atentamente as letras maiúsculas e minúsculas, parêntese, aspas e ponto e vírgula!
 Java é uma linguagem fortemente tipada, ou seja, existem algumas regrinhas que precisam ser seguidas na hora de digitar o seu código.
@@ -40,22 +38,19 @@ Basicamente precisamos criar uma classe com um método principal ou método main
 
 O código completo fica assim:
 
+```java
+class OlaMundo {
+     public static void main(String[] args) {
+          System.out.println("Olá mundo");
+     }
+}
+
+```
 ##
 
-class OlaMundo<br>
-{<br>
-     public static void main(String[] args)<br>
-     {<br>
-          System.out.println("Olá mundo");<br>
-     }<br>
-}<br>
+[Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md")
 
-##
-
-
-<br><a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md">Praticar com exercícios</a>
-
-<br><br>
+<br>
 
 ##
 
