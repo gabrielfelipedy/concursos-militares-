@@ -127,11 +127,42 @@ A nossa última estrutura, o switch-case, é um modo mais elegante de escrever v
 
 Por exemplo: imagine que queremos mover um personagem em um jogo. Em código seria assim:
 
-Código 
+```java
+char comando = 'a';
+
+if(comando == 'a') {
+
+     jogador.mover(esquerda);
+
+} else if(comando == 'w') {
+
+    jogador.mover(cima);
+
+} else if(comando == 's') {
+
+    jogador.mover(baixo);
+
+} else if(comando == 'd') {
+
+    jogador.mover(direita);
+
+}
+```
 
 Perceba que ficar repetindo muitos ifs tira a estética do código e pode gerar futuras dores de cabeça com implementação. Assim, podemos fazer um switch-case deixando o código assim:
 
-Código 
+```java
+char comando = 'a';
+
+switch(comando) {
+
+    case 'a' : jogador.mover(esquerda);
+    case 'w' : jogador.mover(cima);
+    case 's' : jogador.mover(baixo);
+    case 'd' : jogador.mover(direita);
+}
+
+```
 
 ### Estruturas de repetição 
 
