@@ -89,7 +89,16 @@ O if (do inglês: "se") executa um código se a condição passada a ele por par
 
 Ex: o código a seguir verifica se uma pessoa é maior de 18 anos:
 
-<codigo>
+```java
+
+int idade = 18;
+
+if(idade >= 18) {
+
+    System.out.println("É maior de idade");
+}
+
+```
 
 Observe que a mensagem "É maior de idade" só é imprimida se a idade for maior ou igual a 18. Esse código agora não executa sempre, mas depende da validação de uma condição 
 
@@ -97,7 +106,20 @@ No entanto, nosso programa não mostra nada se o indivíduo não é maior de ida
 
 Por exemplo: Queremos validar a entrada de uma pessoa em uma festa. Vamos deixar a pessoa ou não dependendo da sua idade:
 
-<codigo>
+```java
+
+int idade = 16;
+
+if(idade >= 18) {
+
+    System.out.println("Pode entrar");
+
+} else {
+
+    System.out.println("Não pode entrar");
+}
+
+```
 
 Agora temos dois blocos de código em que apenas ou um ou outro é excecutado. Nunca os dois ao mesmo tempo.
 
@@ -105,11 +127,13 @@ A nossa última estrutura, o switch-case, é um modo mais elegante de escrever v
 
 Por exemplo: imagine que queremos mover um personagem em um jogo. Em código seria assim:
 
-<code>
+Código 
 
 Perceba que ficar repetindo muitos ifs tira a estética do código e pode gerar futuras dores de cabeça com implementação. Assim, podemos fazer um switch-case deixando o código assim:
 
-Estruturas de repetição 
+Código 
+
+### Estruturas de repetição 
 
 Imagine que queremos criar um programa que imprime uma tabuada. A implementação seria mais ou menos assim:
 
@@ -121,29 +145,29 @@ Em Java possuímos três estruturas básicas: for, while e do-while. Nesse caso 
 
 A sintaxe do for é a seguinte:
 
-<code>
+Codigo
 
 Caso queriamos saber o comportamento desse "i". Fazemos:
 
-<CODE>
+Codigo
 
 Ou seja. A cada vez que o laço se repetir. O valor de i será diferente e usaremos isso a nosso favor pra refazer a noss a tabuada:
 
-<code>
+Código 
 
 Tudo bem mais elegante e legível!!
 
 Exercícios
 
 
-### Programação orientada a objetos
+## Programação orientada a objetos
 
-### Strings e Caracteres
+## Strings e Caracteres
 
-### Tratamento de exceções: blocos try/catch, finally
+## Tratamento de exceções: blocos try/catch, finally
 
-### Multithreading: classe Thread, interface Runnable
+## Multithreading: classe Thread, interface Runnable
 
-### Arquivos e Fluxos
+## Arquivos e Fluxos
 
-### Conectividade de banco de dados Java (JDBC). Servlets.
+## Conectividade de banco de dados Java (JDBC). Servlets.
