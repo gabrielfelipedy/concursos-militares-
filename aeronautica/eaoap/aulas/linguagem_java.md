@@ -48,7 +48,7 @@ class OlaMundo {
 ```
 ##
 
-:memo: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
+:book: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
 
 <br>
 
@@ -164,7 +164,7 @@ switch(comando) {
 
 ```
 
-[Praticar com exercícios]()
+:book: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
 
 ### Estruturas de repetição 
 
@@ -236,7 +236,7 @@ for(int i = 1; i <= 10; i++) {
 
 Tudo bem mais elegante e legível!!
 
-[Praticar com exercícios]()
+:book: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
 
 
 ## Programação orientada a objetos
