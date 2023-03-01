@@ -6,7 +6,7 @@ Qualquer pessoa do Brasil pode contribuir com este repositório:
 
 * Crie uma nova brach:
 
-git checkout -b "seu nome"
+`git checkout -b "seu nome"`
 
 * Adicione o que julgar necessário para o projeto (Use somente linguagem markdown ou HTML que seja compatível)
 * Abra um pull request e descreva suas alterações 
