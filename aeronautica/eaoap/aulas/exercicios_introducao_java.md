@@ -25,6 +25,8 @@
 
 ### Exercícios sugeridos 
 
+* [Crie um programa que verifique se uma pessoa é ou não idosa de acordo com a sua idade](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/exercicios/MaiorDeIdade.java)
+
 ### Desafios
 
 ### Exercícios de Provas anteriores
