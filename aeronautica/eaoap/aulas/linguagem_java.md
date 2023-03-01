@@ -1,4 +1,4 @@
-### Introdução a aplicativos Java
+## Introdução a aplicativos Java
 
 <br>
 
@@ -168,23 +168,69 @@ switch(comando) {
 
 Imagine que queremos criar um programa que imprime uma tabuada. A implementação seria mais ou menos assim:
 
+```java
+
+int numero = 9;
+
+System.out.println("A tabuada do " + numero + " é: ");
+System.out.println(numero + " x 1 = " + numero)
+System.out.println(numero + " x 2 = " + numero * 2)
+System.out.println(numero + " x 3 = " + numero * 3)
+System.out.println(numero + " x 4 = " + numero * 4)
+System.out.println(numero + " x 5 = " + numero * 5)
+System.out.println(numero + " x 6 = " + numero * 6)
+System.out.println(numero + " x 7 = " + numero * 7)
+System.out.println(numero + " x 8 = " + numero * 8)
+System.out.println(numero + " x 9 = " + numero * 9)
+System.out.println(numero + " x 10 = " + numero * 10)
+```
+
 O programa rodará normalmemte. Mas perceba como o código está muito repetitivo. Temos a mesma estrutura padrão modificando apenas o multiplicador e o resultado. Poderíamos fazer isso de um jeito mais simples?
 
 Podemos sim. Para isso usaremos estruturas de repetição
 
-Em Java possuímos três estruturas básicas: for, while e do-while. Nesse caso usaremos o for
+Em Java possuímos três estruturas básicas
+
+* for
+* while
+* do/while
+
+Usaremos nesse exemplo a estrutura for
 
 A sintaxe do for é a seguinte:
 
-Codigo
+```
+for(inicializacao da variável; condição de parada; incremento) {
 
-Caso queriamos saber o comportamento desse "i". Fazemos:
+    //código aqui
 
-Codigo
+}
+```
 
-Ou seja. A cada vez que o laço se repetir. O valor de i será diferente e usaremos isso a nosso favor pra refazer a noss a tabuada:
+Caso queriamos saber o comportamento dessa variável de controle. Fazemos:
 
-Código 
+```java
+
+for(int i = 0; i <= 10; i++) {
+
+    System.out.println(i)
+}
+```
+
+A saida desse programa será 1, 2, 3, 4, 5.... até o valor 10
+
+Ou seja. A cada vez que o laço se repetir. O valor de i será diferente e usaremos isso a nosso favor pra refazer a nossa tabuada:
+
+```java
+
+int numero = 9;
+
+for(int i = 1; i <= 10; i++) {
+
+    System.out.println(numero + " x " + i + " = " + numero * i);
+}
+
+```
 
 Tudo bem mais elegante e legível!!
 
