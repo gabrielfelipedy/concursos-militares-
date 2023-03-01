@@ -6,29 +6,17 @@ O EAOAP é um concurso militar de nível superior voltado para os profissionais 
 
 O que deseja acessar?
 
-<li>
-<a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/editais/ie_ea_eaoap_2024.pdf">Edital atualizado</a>
-</li>
+###
 
-<li>
-<a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/editais/">Lista de editais</a>
-</li>
+* [Lista de editais](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/editais/)
 
-<li>
-<a href="">Conhecimentos de Língua Portuguesa</a>
-</li>
+* [Conhecimentos de Língua Portuguesa]()
 
-<li>
-<a href="">Conhecimentos específicos</a>
-</li>
+* [Conhecimentos específicos](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/eaoap.md#conhecimentos-espec%C3%ADficos-an%C3%A1lise-de-sistemas-ans)
 
-<li>
-<a href="">Informações sobre o TAF (Teste de Aptidão Física)</a>
-</li>
+* [Informações sobre o TAF (Teste de Aptidão Física)]()
 
-<li>
-<a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/livros/Livros.md">Lista de livros sugeridos</a>
-</li>
+* [Lista de livros](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/livros/Livros.md)
 
 <br><br><br><br>
 
