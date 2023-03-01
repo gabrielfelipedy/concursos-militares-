@@ -2,13 +2,13 @@
 
 <br>
 
-<br>**O que é o Java?**<br>
+<br>:question: **O que é o Java?**<br>
 
 Java é uma linguagem de programação criada pela Sun Microsystems, cujo principal objetivo era desenvolver uma linguagem que tivesse a portabilidade de rodar em qualquer dispositivo de pequeno porte e ao mesmo tempo ser multiplataforma
 
 <br> 
 
-<br>**Motivação:**<br>
+<br>:bulb: **Motivação:**<br>
 
 A maioria das linguagens compiladas na época em que o Java era inexistente (A linguagem C, por exemplo) possuia um problema na parte da dinâmica dos programas.
 Isso porque para executar um código fonte C em várias plataformas era necessário compilar o código uma vez para cada plataforma a ser utilizada.
@@ -48,7 +48,7 @@ class OlaMundo {
 ```
 ##
 
-[Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md")
+:memo: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md")
 
 <br>
 
