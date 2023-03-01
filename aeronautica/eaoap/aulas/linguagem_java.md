@@ -164,6 +164,8 @@ switch(comando) {
 
 ```
 
+[Praticar com exercícios]()
+
 ### Estruturas de repetição 
 
 Imagine que queremos criar um programa que imprime uma tabuada. A implementação seria mais ou menos assim:
@@ -234,7 +236,7 @@ for(int i = 1; i <= 10; i++) {
 
 Tudo bem mais elegante e legível!!
 
-Exercícios
+[Praticar com exercícios]()
 
 
 ## Programação orientada a objetos
