@@ -57,6 +57,10 @@ class OlaMundo {
 
 ### Estruturas de Controle: if, if/else, while, for switch, do/while, break e continue
 
+Em várias linguagens de programação é essencial que alguns códigos não sejam sempre exceutados. Mas somente se acontecer algo definido na aplicação 
+No Java não é diferente. Possuímos estruturas que auxiliam o nosso programa a funcionar da forma correta e a tomar decisões 
+
+
 ### Programação orientada a objetos
 
 ### Strings e Caracteres
