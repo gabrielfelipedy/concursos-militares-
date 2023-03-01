@@ -41,12 +41,10 @@ O que deseja acessar?
 
 ##
 
-<li>
-<a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/linguagem_java.md">Introdução a aplicativos Java</a>
-</li>
+* [Introdução à aplicações Java](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/linguagem_java.md)
 
-* Estruturas de Controle: if, if/else, 
-while, for switch, do/while, break e continue
+* [Estruturas de Controle: if, if/else, 
+while, for switch, do/while, break e continue](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/linguagem_java.md#estruturas-de-controle-if-ifelse-while-for-switch-dowhile-break-e-continue)
 
 * Programação orientada a objetos
 
