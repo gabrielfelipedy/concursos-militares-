@@ -55,7 +55,7 @@ class OlaMundo {
 ##
 
 
-## Estruturas de Controle: if, if/else, while, for switch, do/while, break e continue
+## Estruturas de Controle: if, if/else, while, for, switch, do/while, break e continue
 
 Em várias linguagens de programação é essencial que alguns códigos não sejam sempre exceutados. Mas somente se acontecer algo definido na aplicação 
 No Java não é diferente. Possuímos estruturas que auxiliam o nosso programa a funcionar da forma correta e a tomar decisões 
@@ -164,7 +164,7 @@ switch(comando) {
 
 ```
 
-:book: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
+:book: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md#estruturas-condicionais)
 
 ### Estruturas de repetição 
 
