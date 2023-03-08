@@ -252,6 +252,29 @@ while(i < 20) {
 }
 ```
 
+### Parando Loops
+
+E se precisarmos interromper um laço? O java possui duas cláusulas para, ou interromper o laço completamente ou simplesmente pular para a próxima iteração
+
+* break *
+
+O break interrompe um laço:
+
+```java
+
+int i = 0;
+
+while(true) {
+
+     if(i == 20) break;
+     
+     System.out.println(i);
+     i++;
+
+}
+
+```
+
 ## Programação orientada a objetos
 
 ## Strings e Caracteres
