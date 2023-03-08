@@ -239,6 +239,19 @@ Tudo bem mais elegante e legível!!
 :book: [Praticar com exercícios](https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/eaoap/aulas/exercicios_introducao_java.md)
 
 
+Quando não sabemos muito bem quantas vezes desejamos repetir um bloco de código, podemos usar a estrutura while, ela recebe um booleano como argumento e executa o laço
+enquanto a condição continuar verdadera:
+
+```java
+
+int i = 0;
+while(i < 20) {
+
+     System.out.println(i);
+     i++;
+}
+```
+
 ## Programação orientada a objetos
 
 ## Strings e Caracteres
