@@ -256,7 +256,8 @@ while(i < 20) {
 
 E se precisarmos interromper um laço? O java possui duas cláusulas para, ou interromper o laço completamente ou simplesmente pular para a próxima iteração
 
-* break *
+* break
+* continue
 
 O break interrompe um laço:
 
@@ -271,6 +272,19 @@ while(true) {
      System.out.println(i);
      i++;
 
+}
+
+```
+
+Já o continue simplesmente pula para a próxima iteração
+
+```java
+
+int i = 0;
+while(i < 20) {
+    if(i == 10)
+        continue; //Não imprime o 10
+    i++
 }
 
 ```
