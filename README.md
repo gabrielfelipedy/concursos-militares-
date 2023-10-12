@@ -22,6 +22,6 @@ Qualquer pessoa do Brasil pode contribuir com este repositório:
 <a href="https://github.com/mathsstack/concursos-militares-/blob/main/aeronautica/MAINLIST.md">Aeronáutica</a>
 </li>
 
-<br><br><br>
+<br>
 
-<p align="center">Muito obrigado por visitar e contribuir!</p>
+Thanks for visiting :smile:
